@@ -1,0 +1,35 @@
+.highlighted{
+    background-color: #3cc88f;
+    color: #ffffff;
+}
+
+.btton{
+    background-color:#3cc88f;
+    border-radius:50 px;
+    color: #ffffff;
+    margin-left: -15px;
+    width:300px;
+    text-align:center;
+}
+
+.btton .after{
+    display:none;
+}
+
+.btton:hover .before{
+    display:none;
+}
+
+.btton:hover{
+    background-color:rgb(113, 113, 233);
+    transition: background-color 1s ease-out 1ms;
+}
+
+.btton:hover .after{
+    display:inline;
+    color:white;
+}
+
+
+
+
