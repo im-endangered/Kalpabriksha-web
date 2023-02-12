@@ -1,7 +1,3 @@
-.highlighted{
-    background-color: #3cc88f;
-    color: #ffffff;
-}
 
 .btton{
     background-color:#3cc88f;
@@ -30,6 +26,25 @@
     color:white;
 }
 
+.highlighted{
+    background-color: #3cc88f;
+    color: #ffffff;
+}
+header .nav-col .navbad li a.highlighted{
+    background-color: #3cc88f;
 
+    color: white !important;
+    border: 1px solid #CCC;
+    border-radius: 50px;
+}
 
+.fa-facebook:hover{
+    color: #3b5998  !important;
+
+}
+
+.fa-instagram:hover{
+    color:#cd486b !important;
+    /* background-image: linear-gradient(red, yellow) !important; */
+}
 
