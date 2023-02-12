@@ -502,7 +502,9 @@ header {
     margin-bottom: 30px; }
     .about-us .image-part .about-quick-box .about-qcard p {
       font-weight: 600;
-      font-size: 1.2rem; }
+      font-size: 1.2rem;
+    }
+
     .about-us .image-part .about-quick-box .about-qcard i {
       font-size: 3rem;
       margin-bottom: 30px;

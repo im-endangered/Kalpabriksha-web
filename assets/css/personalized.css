@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
 .highlighted{
     background-color: #3cc88f;
     color: #ffffff;
@@ -33,3 +35,9 @@
 .kalpa-text{
     color:#3cc88f;
 }
+
+/* This class is in publications.html */
+/* .publication-cards{
+    color: rgb(87, 72, 72);
+    font-family: 'Roboto';
+} */
