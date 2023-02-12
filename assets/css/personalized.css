@@ -1,4 +1,7 @@
 
+@import url(https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700);
+@import url(https://fonts.googleapis.com/css?family=Arimo:300,400,400italic,700,700italic);
+
 .btton{
     background-color:#3cc88f;
     border-radius:50 px;
@@ -46,5 +49,14 @@ header .nav-col .navbad li a.highlighted{
 .fa-instagram:hover{
     color:#cd486b !important;
     /* background-image: linear-gradient(red, yellow) !important; */
+}
+
+.text-indentation p{
+    text-indent:50px;
+}
+
+/* Used for text aligning in index.html page */
+.text-aligning-at-center{
+    text-align:center;
 }
 
