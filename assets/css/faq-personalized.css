@@ -75,6 +75,8 @@ body.cd-overlay::after {
     max-width: 1024px;
     margin: 2em auto;
     box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+    font-family: Segoe UI; 
+    font-size:16px;
   }
   .cd-faq:after {
     content: "";
