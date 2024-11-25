@@ -3,7 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Arimo:300,400,400italic,700,700italic);
 
 .btton{
-    background-color:#3cc88f;
+    background-color:#19467d;
     border-radius:50 px;
     color: #ffffff;
     margin-left: -15px;
@@ -30,11 +30,11 @@
 }
 
 .highlighted{
-    background-color: #3cc88f;
+    background-color: #19467d;
     color: #ffffff;
 }
 header .nav-col .navbad li a.highlighted{
-    background-color: #3cc88f;
+    background-color: #19467d;
 
     color: white !important;
     border: 1px solid #CCC;
